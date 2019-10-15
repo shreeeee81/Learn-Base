@@ -3,18 +3,6 @@
 
 
 
-Learn-Base ->
-
-![home](https://user-images.githubusercontent.com/16975766/28489136-9c9930a0-6ed8-11e7-85a0-af4d73f63cd7.png)
-
-
-
-Learn-Base Admin Panel ->
-
-![admin](https://user-images.githubusercontent.com/16975766/28489144-e2c938ae-6ed8-11e7-90f2-f104f34eeabb.png)
-
-
-
 ### Requirements 
 
 - PHP 5.3 or higher recommended 
